@@ -1,2 +1,4 @@
-# react_boilerplate
-Boilerplate code for A react app.
+# Memory Game
+Memory game built with react under TheOdinProject curriculum.
+Test your memory. Try to remember as many Tech revolutionaries as you can.
+
